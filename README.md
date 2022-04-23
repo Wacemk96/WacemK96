@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hellow World..! | I am Wasim 👋
+__________________________________________________________________________________________
 
-<!--
-**Wacemk96/WacemK96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught coder and creator. I like to make stuff and post it on the internet! alien
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working as self-employed
+- 🌱 I’m currently learning web-dev, HTML, CSS, JS
+- 👯 I’m looking to collaborate on Web-Development.
+- 🤔 I’m looking for help to getting job in Canada.
+- 💬 Ask me about anything
+- 📫 How to reach me: [Twitter](https://twitter.com/WasimKhan96)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: to go Canada..! 
 -->
