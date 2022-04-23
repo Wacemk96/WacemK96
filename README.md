@@ -1,7 +1,7 @@
 ### Hellow World..! | I am Wasim 👋
 __________________________________________________________________________________________
 
-I'm a self-taught coder and creator. I like to make stuff and post it on the internet! alien
+**I'm a self-taught coder and creator. I like to make stuff and post it on the internet!** 
 
 - 🔭 I’m currently working as self-employed
 - 🌱 I’m currently learning web-dev, HTML, CSS, JS
